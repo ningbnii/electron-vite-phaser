@@ -4,7 +4,7 @@ An Electron application with Vue
 
 <video id="video" controls="" preload="none" poster="封面">
       <source id="mp4" src="预览视频" type="https://github.com/ningbnii/electron-vite-phaser/raw/master/%E5%BD%95%E5%B1%8F.mp4">
-</videos>
+</video>
 
 ## Recommended IDE Setup
 
